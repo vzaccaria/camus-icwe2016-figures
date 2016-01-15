@@ -1,0 +1,14 @@
+#+begin_src js :var file="figures/service-time.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/data.json');
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.pluck(data, 'responseTime')
+
+_.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/service-time.pdf
+:END:
