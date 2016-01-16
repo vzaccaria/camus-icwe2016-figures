@@ -12,3 +12,65 @@ _.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
 :RESULTS:
 file:figures/service-time.pdf
 :END:
+
+#+begin_src js :var file="figures/fixed-response-time.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/fixed100.json');
+var _ = $._; var data = $.data
+
+data = _.map(data, (i) => {
+   return { variable: i.lambda, value: i.responseTime }
+})
+
+_.box(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/fixed-response-time.pdf
+:END:
+
+#+begin_src js :var file="figures/exponential-response-time.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/exponential100.json');
+var _ = $._; var data = $.data
+
+data = _.map(data, (i) => {
+   return { variable: i.lambda, value: i.responseTime }
+})
+
+_.box(file, data, { xaxis: "lambda (Req/s)", yaxis: 'Response time (ms)', width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/exponential-response-time.pdf
+:END:
+
+#+begin_src js :var file="figures/expo-lambda-2.5.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/exponential100.json');
+var _ = $._; var data = $.data
+
+data = _.filtEq('lambda', 2.5)(data)
+data = _.pluck(data, 'responseTime')
+
+_.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/expo-lambda-2.5.pdf
+:END:
+
+#+begin_src js :var file="figures/fixed-lambda-2.5.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/fixed100.json');
+var _ = $._; var data = $.data
+
+data = _.filtEq('lambda', 2.5)(data)
+data = _.pluck(data, 'responseTime')
+
+_.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/fixed-lambda-2.5.pdf
+:END:
