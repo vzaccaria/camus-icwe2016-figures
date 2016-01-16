@@ -1,5 +1,5 @@
 #+begin_src js :var file="figures/service-time.pdf" :results output raw drawer :exports results
-var $ = require("org-helper")('./data/data.json');
+var $ = require("org-helper")('./data/serviceTime100.json');
 var _ = $._; var data = $.data
 
 data = _.filtEq('type', 'servicetime')(data)
