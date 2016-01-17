@@ -4,6 +4,7 @@ var _ = $._; var data = $.data
 
 data = _.filtEq('type', 'servicetime')(data)
 data = _.pluck(data, 'responseTime')
+data = _.filter(data, (x) => x < 350)
 
 _.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
 #+end_src
@@ -73,4 +74,27 @@ _.histo(file, data, { xaxis: "time (ms)", width: '20', verbose: false})
 #+RESULTS:
 :RESULTS:
 file:figures/fixed-lambda-2.5.pdf
+:END:
+
+#+begin_src js :var file="figures/service-time.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data/serviceTime100.json');
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.pluck(data, 'responseTime')
+data = _.filter(data, (x) => x < 350)
+
+let n = data.length
+let mean = _.sum(data)/n
+
+let v = _.map(data, (i) => Math.pow(i - mean, 2))
+v = _.sum(v)/n
+
+console.log(`Mean: ${mean}, variance: ${v}`)
+
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+Mean: 312.74593108163265, variance: 312.74593108163265
 :END:
