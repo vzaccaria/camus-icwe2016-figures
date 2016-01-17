@@ -90,11 +90,11 @@ let mean = _.sum(data)/n
 let v = _.map(data, (i) => Math.pow(i - mean, 2))
 v = _.sum(v)/n
 
-console.log(`Mean: ${mean}, variance: ${v}`)
+console.log(`Mean: ${mean}, variance: ${v}, std: ${Math.sqrt(v)}, lambda=${1000/mean}`)
 
 #+end_src
 
 #+RESULTS:
 :RESULTS:
-Mean: 312.74593108163265, variance: 312.74593108163265
+Mean: 201.87949595599997, variance: 41.71166811223823, std: 6.458457099976606, lambda=4.953450053283033
 :END:
