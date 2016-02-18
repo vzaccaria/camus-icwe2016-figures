@@ -1,0 +1,452 @@
+[
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 30.548581,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.382814,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.45084,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.058591,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.06882,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 15.664692,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.267754,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.37007,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.559643,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.555402,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.421327,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.121031,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.566292,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.652072,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.904643,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 27.011962,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.70353,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.870842,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.171614,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.197974,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.05849,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.079254,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.263483,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.493971,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.182863,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.663548,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.283547,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.540608,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.958426,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.945665,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.327025,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.703315,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.337326,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.556122,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.753487,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.346957,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.038347,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.466833,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.567742,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.887423,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 8.98708,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.356771,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.057387,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.337935,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.955091,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.55234,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.110644,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.332991,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.700358,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "PICCOLO-1",
+        "contextDim": "piccolo",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.387573,
+        "success": true
+    }
+]

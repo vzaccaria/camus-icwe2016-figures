@@ -1,0 +1,452 @@
+[
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 32.944008,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 17.456026,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 12.970086,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.60599,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 18.079091,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.60752,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.627648,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.734977,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.961413,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 15.41345,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.878607,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.622097,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.970059,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 20.579771,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.685948,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.373529,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.513039,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 15.232224,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.953649,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.432894,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.990014,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.007795,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.590395,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 15.191325,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.832995,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.677272,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.328379,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.916631,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.721859,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.274768,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 12.917657,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.326585,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 15.291365,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.110629,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.181367,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.323458,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 15.315433,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.265429,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.257505,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.857697,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.244972,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.645422,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.0918,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.068951,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.296687,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 14.509308,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.914022,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 13.405986,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 19.775731,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "GRANDE-2",
+        "contextDim": "grande",
+        "numServices": "2",
+        "lambda": 1,
+        "responseTime": 16.246985,
+        "success": true
+    }
+]

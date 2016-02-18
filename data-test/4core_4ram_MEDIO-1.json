@@ -1,0 +1,452 @@
+[
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 32.39839,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.441459,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.523393,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.422042,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.264063,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.46049,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.448684,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.871217,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.996075,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.073603,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.262126,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.880728,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.650368,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.971493,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.951641,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.644837,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.814164,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.733579,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.390875,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.590348,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.224802,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.90634,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.761752,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.55051,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.738179,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.262724,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.731464,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.516016,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.564614,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.585835,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.085662,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.467715,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.132168,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.503001,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.81435,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.888319,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.808395,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.59469,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.708652,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.891359,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.318746,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.485928,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.482802,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.71794,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.657316,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.424613,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.519502,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.558711,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.907805,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MEDIO-1",
+        "contextDim": "medio",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 10.832391,
+        "success": true
+    }
+]

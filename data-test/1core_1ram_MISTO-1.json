@@ -1,0 +1,452 @@
+[
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 877.823265,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 54.43837,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 34.249282,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 70.715825,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.259564,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.152422,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 68.07937,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 36.124182,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 30.656846,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 29.436873,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 27.127959,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.629514,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.627599,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.650846,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 36.710846,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 49.467469,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.670563,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 19.388246,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.128516,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 18.453087,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 18.498795,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 15.486545,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.653708,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.403253,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 12.499616,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.551157,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 20.085808,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 22.102327,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 17.646286,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 13.287621,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 19.296728,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 14.139513,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 22.484462,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 17.687968,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.971689,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 20.374793,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 22.041845,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 16.704298,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 20.033699,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 40.271882,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 31.467883,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 18.238819,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 26.803134,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 47.466719,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 20.166965,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 9.986928,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 24.352198,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 11.726053,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 19.651344,
+        "success": true
+    },
+    {
+        "type": "servicetime",
+        "tag": "MISTO-1",
+        "contextDim": "misto",
+        "numServices": "1",
+        "lambda": 1,
+        "responseTime": 19.154988,
+        "success": true
+    }
+]
