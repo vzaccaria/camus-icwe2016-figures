@@ -1,0 +1,31 @@
+#+AUTHOR:    Vittorio Zaccaria
+#+EMAIL:     vittorio.zaccaria@polimi.it
+#+DESCRIPTION:
+#+KEYWORDS:
+
+#+LaTeX_CLASS_OPTIONS: [12pt,a4]
+#+LaTeX_HEADER: \usepackage{fixltx2e}
+#+LaTeX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \usepackage{longtable}
+#+LaTeX_HEADER: \usepackage{float}
+#+LaTeX_HEADER: \usepackage{wrapfig}
+#+LaTeX_HEADER: \usepackage{rotating}
+#+LaTeX_HEADER: \usepackage[normalem]{ulem}
+#+LaTeX_HEADER: \usepackage{amsmath}
+#+LaTeX_HEADER: \usepackage{textcomp}
+#+LaTeX_HEADER: \usepackage{marvosym}
+#+LaTeX_HEADER: \usepackage{wasysym}
+#+LaTeX_HEADER: \usepackage{amssymb}
+#+LaTeX_HEADER: \usepackage{hyperref}
+#+LaTeX_HEADER: \usepackage{minted}
+#+LaTeX_HEADER: \usepackage{fontspec,xltxtra,xunicode}
+#+LATEX_HEADER: \setmainfont[Scale=0.8]{Palatino Linotype}
+#+LATEX_HEADER: \setsansfont{Fira Sans}
+#+LATEX_HEADER: \setmonofont[Scale=0.8]{Inconsolata}
+#+LATEX_HEADER: \newfontfamily\myunicodefallback{Cambria}
+#+LATEX_HEADER: \usepackage{polyglossia}
+#+LATEX_HEADER: \setmainlanguage{italiano}
+#+LATEX_HEADER: \usepackage{geometry}
+#+LATEX_HEADER: \hypersetup{colorlinks,linkcolor=,urlcolor=links}
+#+LATEX_HEADER: \definecolor{links}{HTML}{0086F7}
+#+LATEX_HEADER: \setlength\columnsep{0.75cm}

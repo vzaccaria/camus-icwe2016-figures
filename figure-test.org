@@ -1,16 +1,160 @@
-#+begin_src js :var file="figures/test1.pdf" :results output raw drawer :exports results
-var $ = require("org-helper")('./data-test/tempi_componenti.json')
+#+AUTHOR:    Vittorio Zaccaria
+#+TITLE: Response time charts
+#+INCLUDE: org_header.org
+
+* Osservazioni/Da capire
+
++ Come mai il carico misto non e' come tutti gli altri
++ Aumentare il numero di core non cambia la media ma sembra irrobustire le campane del service time
+
+* Response time vs payload size
+
+#+begin_src js :var file="figures/response-time-vs-payload.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
 var _ = $._; var data = $.data
 
-data = _.filtEq('type', 'DB')(data)
-data = _.filtEq('component', 'PrimaryServiceSelection')(data)
-data = _.pluck(data, 'time')
-/* data = _.filter(data, (x) => x < 350) */
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: it.contextDim, value: it.responseTime }
+})
 
-_.histo(file, data, { xaxis: "time (ms)", yaxis: "count", width: '20', verbose: false})
+_.dens(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
 #+end_src
 
 #+RESULTS:
 :RESULTS:
-file:figures/test1.pdf
+file:figures/response-time-vs-payload.pdf
+:END:
+
+#+begin_src js :var file="figures/response-time-vs-payload-boxplot.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: it.contextDim, value: it.responseTime }
+})
+
+_.boxPlot(file, data, { xaxis: "context dimension", yaxis: "time", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-payload-boxplot.pdf
+:END:
+
+* Response time vs services
+
+#+begin_src js :var file="figures/response-time-vs-numsrvc.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "N"+it.numServices, value: it.responseTime }
+})
+
+_.dens(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-numsrvc.pdf
+:END:
+
+#+begin_src js :var file="figures/response-time-vs-numsrvc-box-plot.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "N"+it.numServices, value: it.responseTime }
+})
+
+_.boxPlot(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-numsrvc-box-plot.pdf
+:END:
+
+* Response time vs cores
+
+#+begin_src js :var file="figures/response-time-vs-core.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "N"+it.core, value: it.responseTime }
+})
+
+_.dens(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-core.pdf
+:END:
+
+#+begin_src js :var file="figures/response-time-vs-core-box-plot.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "N"+it.core, value: it.responseTime }
+})
+
+_.boxPlot(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-core-box-plot.pdf
+:END:
+
+* Response time vs ram
+
+#+begin_src js :var file="figures/response-time-vs-ram.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "R"+it.ram, value: it.responseTime }
+})
+
+_.dens(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-ram.pdf
+:END:
+
+#+begin_src js :var file="figures/response-time-vs-ram-box-plot.pdf" :results output raw drawer :exports results
+var $ = require("org-helper")('./data-test/results.json')
+var _ = $._; var data = $.data
+
+data = _.filtEq('type', 'servicetime')(data)
+data = _.filter(data, (x) => x.responseTime < 100 )
+data = _.map(data, (it) => {
+   return { variable: "R"+it.ram, value: it.responseTime }
+})
+
+_.boxPlot(file, data, { xaxis: "time", yaxis: "count", width: '20', verbose: false})
+#+end_src
+
+#+RESULTS:
+:RESULTS:
+file:figures/response-time-vs-ram-box-plot.pdf
 :END:
